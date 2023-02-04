@@ -1,2 +1,8 @@
- hi its from git version
+class demo
+{
+  static void main(....)
+  {
+  s.o.print("test code")	  
+  }
+}
 
