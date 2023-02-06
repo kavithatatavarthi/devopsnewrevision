@@ -1,4 +1,5 @@
-void codea
+void code
+ add hard reseta
 {
 	
 void codea
